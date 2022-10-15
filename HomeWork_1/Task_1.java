@@ -8,6 +8,6 @@ public class Task_1 {
         System.out.println("Введите число N:");
         int input = n.nextInt();
         int tn = (input*(input+1)/2);
-        System.out.println(tn);
+        System.out.println("Ответ: " + tn);
     }
 }
